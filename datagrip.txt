@@ -1,0 +1,2 @@
+Failed to download 'https://download.jetbrains.com/idea/jdbc-drivers/MSSQL/12/MSSQL-JDBC_AUTH_LICENSE.txt':
+https://central.sonatype.com/artifact/com.microsoft.sqlserver/mssql-jdbc
